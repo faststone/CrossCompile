@@ -1,0 +1,1 @@
+./configure -v -prefix ./qt5.8 -xplatform linux-mips-g++ -confirm-license -release -opensource -nomake tests -nomake examples -no-eglfs -no-openssl -no-qml-debug -no-optimized-tools -no-opengl -static
